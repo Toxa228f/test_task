@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+video/
+uploads/
+*.db
+__pycache__/
+
+
 # C extensions
 *.so
 
